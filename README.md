@@ -8,8 +8,8 @@ A springboot rest api for users and organizations with many to many relationship
 	2. Create a local MySQL database.
 		1. Install MySQL.
 		2. Log into MySQL and create a database.
-		1. `mysql -u root -p`
-		2. `create database YOURDATABASENAME;`
+			1. `mysql -u root -p`
+			2. `create database YOURDATABASENAME;`
 	3. Update java-rest-api/demo/src/main/resources/application.properties with your database info.
 		1. spring.datasource.url=jdbc:mysql://localhost:3306/YOURDATABASENAME?useSSL=false
          	spring.datasource.username=root
