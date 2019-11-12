@@ -4,7 +4,7 @@ A springboot rest api for users and organizations with many to many relationship
 
 1. Setup
   A. Cloning the repository with git.
-    i. "git clone https://github.com/ssulkar/java-rest-api.git"
+    i. 'code(git clone https://github.com/ssulkar/java-rest-api.git)'
   B. Create a local MySQL database.
     i. Install MySQL.
       a.
