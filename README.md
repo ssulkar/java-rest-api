@@ -17,7 +17,7 @@ A springboot rest api for users and organizations with many to many relationship
 	4. Install Postman to test endpoints.
 2. **Running**
 	1. Run the application file java-rest-api/demo/src/main/java/com/example/demo/DemoApplication.java in Intellij.
-3. **API Documentation**
+3. **API**
 	1. Method: post
 		1. */users*
 		2. */organizations*
@@ -34,7 +34,7 @@ A springboot rest api for users and organizations with many to many relationship
 		1. */users/{userId}*
 		2. */organizations/{organizationId}*
 		3. */organizations/{organizationId}/users/{userId}*
-4. Examples:
+4. **Examples and Documentation**:
 	1. Method: post
 		1. *localhost:8080/users*
 			1. {
