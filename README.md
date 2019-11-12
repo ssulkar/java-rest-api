@@ -47,8 +47,8 @@ A springboot rest api for users and organizations with many to many relationship
 			2. This request adds a new user to the database.
 		2. *localhost:8080/organizations*
 			1. {
-			"name": "spacex"
-			"address": "los angeles"
+			"name": "spacex",
+			"address": "los angeles",
 			"phone": "1234567890"
 			}
 			2. This request adds a new organization to the database.
