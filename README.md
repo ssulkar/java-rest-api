@@ -11,9 +11,9 @@ A springboot rest api for users and organizations with many to many relationship
 		1. `mysql -u root -p`
 		2. `create database YOURDATABASENAME;`
     	3. Update java-rest-api/demo/src/main/resources/application.properties with your database info.
-      	1. 'spring.datasource.url=jdbc:mysql://localhost:3306/YOURDATABASENAME?useSSL=false
+      	1. spring.datasource.url=jdbc:mysql://localhost:3306/YOURDATABASENAME?useSSL=false
          spring.datasource.username=root
-         spring.datasource.password=password`
+         spring.datasource.password=password
 	3. Install Postman to test endpoints.
 2. **Running**
 	1. Run the application file java-rest-api/demo/src/main/java/com/example/demo/DemoApplication.java in Intellij.
